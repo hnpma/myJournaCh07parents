@@ -2,5 +2,7 @@ myJournalCh07parents.txt
 C:\Users\User\Documents\myJournalCh07parents
 9:38 AM 2/8/2024
 
-
+9:49 AM 2/8/2024
+added more lines to file in remote repo hnpma
+WIll pull these changes to local repo later h2023sep15@outlook.com
 
